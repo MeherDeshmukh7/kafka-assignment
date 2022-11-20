@@ -1,8 +1,6 @@
 1. Setup Confluent Kafka Account
 
-
-
-
+![kafka account](https://user-images.githubusercontent.com/113834590/202918280-01f04bb4-739a-491d-b957-4d49151c3363.png)
 
 
 2. Create one kafka topic named as "restaurent-take-away-data" with 3 partitions
