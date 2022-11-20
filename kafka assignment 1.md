@@ -14,7 +14,9 @@ Answer- done.
 
 3. Setup key (string) & value (json) schema in the confluent schema registry
 Answer - done.
+
 ![value](https://user-images.githubusercontent.com/113834590/202924609-1d9310a9-b619-492e-b3cd-2585f63fe244.png)
+
 ![key](https://user-images.githubusercontent.com/113834590/202924623-fd21e71d-d1f6-4c8c-a25a-b7ffecdeb0ea.png)
 
 
