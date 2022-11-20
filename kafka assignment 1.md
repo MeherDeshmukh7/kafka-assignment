@@ -1,16 +1,21 @@
 1. Setup Confluent Kafka Account
 
+Answer- done.
+
 ![kafka account](https://user-images.githubusercontent.com/113834590/202918280-01f04bb4-739a-491d-b957-4d49151c3363.png)
 
 
 2. Create one kafka topic named as "restaurent-take-away-data" with 3 partitions
 
+Answer- done.
 
-
-
+![topic](https://user-images.githubusercontent.com/113834590/202918508-1712f401-42e6-4460-90f3-87141e4b4928.png)
 
 
 3. Setup key (string) & value (json) schema in the confluent schema registry
+Answer - done.
+![value](https://user-images.githubusercontent.com/113834590/202924609-1d9310a9-b619-492e-b3cd-2585f63fe244.png)
+![key](https://user-images.githubusercontent.com/113834590/202924623-fd21e71d-d1f6-4c8c-a25a-b7ffecdeb0ea.png)
 
 
 
