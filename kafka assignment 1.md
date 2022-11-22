@@ -42,14 +42,14 @@ from typing import List
 FILE_PATH = "/Users/meher/OneDrive/Desktop/kafka/Restaurent_orders.csv"
 columns=['order_number', 'order_date', 'item_name', 'quantity', 'product_price', 'total_products']
 
-API_KEY = '35M6JJD6TRLXJUQZ'
-ENDPOINT_SCHEMA_URL  = 'https://psrc-mw2k1.us-east-2.aws.confluent.cloud'
-API_SECRET_KEY = '20RexeciemqDovQnrC7A7Gu5dbuGYd4OOubDq0lJbpJ23BW5CRAHHe99DTdzVYws'
-BOOTSTRAP_SERVER = 'pkc-ymrq7.us-east-2.aws.confluent.cloud:9092'
+API_KEY = 
+ENDPOINT_SCHEMA_URL  = 
+API_SECRET_KEY = 
+BOOTSTRAP_SERVER = 
 SECURITY_PROTOCOL = 'SASL_SSL'
 SSL_MACHENISM = 'PLAIN'
-SCHEMA_REGISTRY_API_KEY = 'LW2FVBTFMKPYXPUZ'
-SCHEMA_REGISTRY_API_SECRET = '2/nfaCXtJV86TTzEjFDnFewRAHPj5W0L6rsE0XqwLJCwmx0lz3qtsMpPmMVxDLPm'
+SCHEMA_REGISTRY_API_KEY = 
+SCHEMA_REGISTRY_API_SECRET = 
 
 
 def sasl_conf():
